@@ -13,7 +13,7 @@ function Main(){
        
             <Switch>
             <Route exact path="/login/" component={Login}></Route>
-            <Route exact path="/login/dashboard" component={Home}></Route>
+            <Route exact path="/dashboard/" component={Home}></Route>
         </Switch>
         </BrowserRouter>
         </div>
