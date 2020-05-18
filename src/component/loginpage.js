@@ -23,7 +23,7 @@ function handlesubmit(e){
             
                console.log("yay")
 
-               history.push("/dashboard");
+               history.push("login/dashboard");
                
            
 

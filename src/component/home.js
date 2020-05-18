@@ -6,7 +6,7 @@ const Home = () => {
 const history = useHistory();
     function handleclick(e){
         
-        history.push('/')
+        history.push('/login/')
     }
   return (
     <div>
